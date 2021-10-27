@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+
+}
+.box1{
+    width: 50%;background-color: white;
+}
+.box2{
+    width: 50%;background-color: white;
+}
+.box3{
+   width: 100% ;background-color: bisque;
+}
+body  {
+    background-image: url("../img/nen.jpeg");
+    background-color: lightblue;
+}
